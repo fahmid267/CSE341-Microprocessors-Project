@@ -4,8 +4,10 @@
 Restaurant and Hotel Management System Using Assembly Language
 
 ## Features
-1. Room booking and food ordering
-2. Cost calculation
-3. Room service and other facilities booking
+1. Customer Registration
+2. Customer login
+3. Room booking and food ordering
+4. Cost calculation
+5. Room service and other facilities booking
 
 ## Demo
